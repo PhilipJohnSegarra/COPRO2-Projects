@@ -1,0 +1,18 @@
+D:\C#\BMI calculator\bin\Debug\net6.0-windows\BMI calculator.exe
+D:\C#\BMI calculator\bin\Debug\net6.0-windows\BMI calculator.deps.json
+D:\C#\BMI calculator\bin\Debug\net6.0-windows\BMI calculator.runtimeconfig.json
+D:\C#\BMI calculator\bin\Debug\net6.0-windows\BMI calculator.dll
+D:\C#\BMI calculator\bin\Debug\net6.0-windows\BMI calculator.pdb
+D:\C#\BMI calculator\obj\Debug\net6.0-windows\BMI calculator.csproj.AssemblyReference.cache
+D:\C#\BMI calculator\obj\Debug\net6.0-windows\BMI_calculator.Properties.Resources.resources
+D:\C#\BMI calculator\obj\Debug\net6.0-windows\BMI calculator.csproj.GenerateResource.cache
+D:\C#\BMI calculator\obj\Debug\net6.0-windows\BMI calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BMI calculator\obj\Debug\net6.0-windows\BMI calculator.AssemblyInfoInputs.cache
+D:\C#\BMI calculator\obj\Debug\net6.0-windows\BMI calculator.AssemblyInfo.cs
+D:\C#\BMI calculator\obj\Debug\net6.0-windows\BMI calculator.csproj.CoreCompileInputs.cache
+D:\C#\BMI calculator\obj\Debug\net6.0-windows\BMI calculator.dll
+D:\C#\BMI calculator\obj\Debug\net6.0-windows\refint\BMI calculator.dll
+D:\C#\BMI calculator\obj\Debug\net6.0-windows\BMI calculator.pdb
+D:\C#\BMI calculator\obj\Debug\net6.0-windows\BMI calculator.genruntimeconfig.cache
+D:\C#\BMI calculator\obj\Debug\net6.0-windows\ref\BMI calculator.dll
+D:\C#\BMI calculator\obj\Debug\net6.0-windows\BMI_calculator.frmBMICalcu.resources
